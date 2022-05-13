@@ -9,6 +9,7 @@ Lee todo el documento antes de comenzar el desarrollo, para asegurarte de tener 
 En este desafío deberás maquetar la vista de una tienda online básica que cuenta con una Menú de navegación, una barra lateral con la cantidad de productos por categoría, una grilla de productos y un pie de página.
 
 <p align="center">
+  <img src="https://github.com/Felipe-M-dev/CSS-Challenge-02/blob/main/assets/img/mockup.png?raw=true?raw=true" alt="Imagen 1"><br>
 Imagen 1. Desafío.<br>
 Fuente: Desafío Latam.
 </p>
